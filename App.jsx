@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react"
-import Prayer from "./component/Prayer"
+import Prayer from "./Prayer"
 
 
 function App() {

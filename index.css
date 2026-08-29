@@ -7,7 +7,7 @@
 }
 html{direction: rtl;}
 section{
-  background: url(assets/bg.jpg);
+  background: url(bg.jpg);
   background-size: cover;
   background-position: center;
   min-height: 100vh;
